@@ -94,4 +94,6 @@ echo "Enable GPU-accelerated relaxation..."
 echo "Downloading runner.py"
 (cd ${COLABFOLDDIR} && wget -q "https://raw.githubusercontent.com/YoshitakaMo/localcolabfold/main/runner.py")
 
+echo "Downloading notebook"
+(cd ${COLABFOLDDIR} && wget -q "https://raw.githubusercontent.com/Laura190/localcolabfold/main/AlphaFold2_advanced.ipynb")
 echo "Installation of Alphafold2_advanced finished."
