@@ -7,7 +7,7 @@
 ### For GPU Workstation
 1. Download `install_colabfold_linux.sh` from this repository:<pre>$ wget https://raw.githubusercontent.com/Laura190/localcolabfold/main/install_colabfold_linux.sh</pre> and run it in the directory where you want to install:<pre>$ bash install_colabfold_linux.sh</pre>About 5 minutes later, `colabfold` directory will be created. Do not move this directory after the installation.
 1. Type `cd colabfold` to enter the directory.
-1. To run the notebook, run <pre>$ colabfold-conda/bin/jupyter-notebook</pre>. Navigate to, and open, AlphaFold2_advanced.ipynb
+1. To run the notebook, run <pre>$ colabfold-conda/bin/jupyter-notebook</pre> Navigate to, and open, AlphaFold2_advanced.ipynb
 1. For more information, please refer to the original [ColabFold / AlphaFold2_advanced](https://colab.research.google.com/github/sokrypton/ColabFold/blob/main/beta/AlphaFold2_advanced.ipynb).
 
 ### For Linux
